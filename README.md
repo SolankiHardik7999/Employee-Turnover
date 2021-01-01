@@ -2,9 +2,11 @@
 For performing Employee Churn using Logistic Regression we are going to use dataset from kaggle(HR Analytics).
 Below is the brief description about data.
 
-Data Description:
-This data is consist of 10 variables(columns) and 15,000 observation(rows).Each row represent a employee which has revelent values for each 10 variabales.More detail about columns is mentioned below:
-satisfaction_level (Numerical): This column represents employee satisfaction level between 0 to 1 where 0 represents least and 1 represents high.
+Data Description:</br>
+This data is consist of 10 variables(columns) and 15,000 observation(rows).</br>
+Each row represent a employee which has revelent values for each 10 variabales.</br>
+More detail about columns is mentioned below:</br>
+satisfaction_level (Numerical): This column represents employee satisfaction level between 0 to 1 where 0 represents least and 1 represents high.</br>
 last_evaluation (Numerical): This column represents how much time since last evaluation of employee.</br>
 number_project (Numerical): This column reprsents how much projects employee has done so far.</br>
 average_montly_hours (Numerical): This column represents average monthly hours employee has spend in organization.</br>
